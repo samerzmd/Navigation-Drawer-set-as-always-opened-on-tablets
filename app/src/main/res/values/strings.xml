@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavDrawerLockedPlease</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="actionSort">aa</string>
+    <string-array name="drawerOptions">
+        <item>lol</item>
+    </string-array>
+</resources>
